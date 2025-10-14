@@ -3,7 +3,7 @@
 # --- GERADOR DE ÁUDIO FRANCÊS (v7.0 - Final com Saída Dinâmica) ---
 
 import os 
-import pathlib
+import pathlib 
 import re 
 import base64
 import requests
