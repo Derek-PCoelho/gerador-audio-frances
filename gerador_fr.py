@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # --- GERADOR DE ÁUDIO FRANCÊS (v7.0 - Final com Saída Dinâmica) ---
 
-import os 
+import os  
 import pathlib 
 import re 
 import base64
