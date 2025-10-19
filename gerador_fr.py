@@ -48,7 +48,7 @@ LANGUAGE_CODE = "-".join(VOICE_NAME.split("-")[0:2])
 NUM2WORDS_LANG = profile["num2words_lang"]
 CHAPTER_MARKERS_REGEX = rf'^\s*({profile["chapter_keywords"]})\s*[\d:]*\s*[–—\-:]*\s*.*'
 CTA_INTRO_MARKERS = [
-    "Écris en commentaire",
+    "Écris en commentaire", 
     "Commentez maintenant",
     "Écrivez en commentaire",
 ]
